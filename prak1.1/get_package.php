@@ -86,7 +86,7 @@ function get_composer_graph($package_name) {
 }
 
 
-$package_name = "laravel/framework";
+$package_name = "league/oauth2-server";
 $graphs = get_composer_graph($package_name);
 
 print($graphs);

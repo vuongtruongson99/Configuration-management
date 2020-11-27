@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\project1\infix_to_postfix.cpp(11): warning C4018: '<': signed/unsigned mismatch
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\project1\calculate_from_postfix.cpp(52): warning C4018: '<': signed/unsigned mismatch
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\project1\calculate_from_postfix.cpp(74): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(126): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(154): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(182): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(196): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\unittest1\unittest1.cpp(203): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\ki 1 nam 2\конфигурационое управление\code\prak11\project1\project1\calculate_from_postfix.cpp(19): warning C4715: 'ApplyOperator': not all control paths return a value
+     Creating library H:\Ki 1 nam 2\Ωεφ⌠Φπ≤≡α÷Φεφεσ ≤∩≡αΓδσφΦσ\Code\prak11\Project1\Debug\UnitTest1.lib and object H:\Ki 1 nam 2\Ωεφ⌠Φπ≤≡α÷Φεφεσ ≤∩≡αΓδσφΦσ\Code\prak11\Project1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> H:\Ki 1 nam 2\конфигурационое управление\Code\prak11\Project1\Debug\UnitTest1.dll
